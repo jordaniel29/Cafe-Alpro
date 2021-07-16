@@ -1,0 +1,10 @@
+Pisang Goreng,10000,0
+Roti Bakar,13000,5
+Nachos,15000,7
+Onion Ring,12000,8
+Jamur Enoki,20000,10
+Es Blend,10000,10
+Ice Drink,10000,10
+Milkshake,10000,10
+Milktea,10000,10
+Coffe Late,10000,10

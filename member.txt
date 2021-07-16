@@ -1,0 +1,3 @@
+Lionel Messi,lionelmessi,lionelmessi,True
+Cristiano Ronaldo,cristianoronaldo,cristianoronaldo,False
+Patricia Beslar,patricia_yb,patricia_yb,True
